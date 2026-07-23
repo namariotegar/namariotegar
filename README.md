@@ -24,4 +24,4 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namariotegar&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=namariotegar&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=namariotegar&theme=tokyo-night"/>
