@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Mario Tegar
+# Hi 👋 I'm Rio Tegar
 
 ### 💻 Full Stack Developer
 ### 🤖 AI Researcher
